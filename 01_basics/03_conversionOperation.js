@@ -28,12 +28,12 @@ let value = 50
 let negValue = -value
 console.log(negValue);
 
-console.log(2+2);
-console.log(2-2);
-console.log(2*2);
-console.log(2**2);
-console.log(2/2);
-console.log(2%2);
+//console.log(2+2);
+//console.log(2-2);
+//console.log(2*2);
+//console.log(2**2);
+//console.log(2/2);
+//console.log(2%2);
 
 let str1 = "Bibek"
 let str2 = "kumar"

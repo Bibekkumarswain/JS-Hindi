@@ -17,3 +17,25 @@ let userEmail;
 
 const id = Symbol('123')
 const anotherId = Symbol('123')
+
+console.log(id===anotherId);
+
+
+const bigNumber = 23920304055630n
+
+//Reference (non-primitive)
+// Array, Objects, Functions
+
+const heros=["shaktiman","naagraj","doga"];
+
+let myObj={
+    name:"Bibek",
+    age:22
+};
+
+const myfunction=function(){
+    console.log("Hello Web World");
+}
+
+console.log(typeof bigNumber);
+console.log(typeof anotherId);

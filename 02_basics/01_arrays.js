@@ -33,4 +33,5 @@ console.log(myn1)
 console.log("B",myArr)
 
 const myn2 = myArr.slice(1,3)
+console.log("C", myArr)
 console.log(myn2);

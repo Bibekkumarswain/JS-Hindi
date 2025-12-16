@@ -5,3 +5,9 @@ const myHeros=["john Cena" , "Roman"]
 
 const myArr2=new Array(1,2,3,4)
 console.log(myArr[3]);
+
+//Array Methods
+myArr.push(6);
+myArr.push(7);
+myArr.pop(7);
+console.log(myArr);

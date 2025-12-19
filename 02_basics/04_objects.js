@@ -70,5 +70,17 @@ console.log(Instructor);
 /*const navbar = ((company))=>{
 
 }
-navbar(company="Bibek")*/
+navbar(company="Bibek")*///object destructuring
 
+/*{
+    "name": "Bibek",
+    "courseName": "JS in hindi",
+    "price":"free"
+}*/
+
+[
+    {},
+    {},
+    {}
+]
+//Json is simple Js object notation, ye sirf js ke liye limited nahi hai pura api industry mein chalta hai

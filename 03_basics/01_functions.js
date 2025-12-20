@@ -65,4 +65,5 @@ const myNewArray=[200,400,100,500]
 function returnSecondValue(getArray){
     return getArray[1] 
   }
+//console.log(returnSecondValue(myNewArray));
 console.log(returnSecondValue(myNewArray));
